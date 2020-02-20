@@ -83,6 +83,23 @@ function drawChart() {
       undefined,
       undefined
     ],
+    [  new Date(2006, 5, 15),
+      50000,
+      "Graduated University",
+      "Now what???",
+      40000,
+      undefined,
+      undefined
+    ],
+    [
+      new Date(2006, 9, 30),
+      40000,
+      "Went on a religious mission",
+      "They're pretty intense",
+      40000,
+      undefined,
+      undefined
+    ],
     [
       new Date(2007, 7, 15),
       80000,
