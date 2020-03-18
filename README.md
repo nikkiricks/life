@@ -2,7 +2,7 @@
 
 ![](images/site.png)
 
-WIP Deployed: nikki-life.surge.sh
+[WIP Deployed](nikki-life.surge.sh)
 
 ## About
 
@@ -13,6 +13,6 @@ Instead of making a professional portfolio I thought it could be interesting to 
 - HTML
 - CSS
 - JavaScript
-- GoogleCharts https://developers.google.com/chart/interactive/docs
+- [GoogleCharts](https://developers.google.com/chart/interactive/docs)
 
 ## Challenges
