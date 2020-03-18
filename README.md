@@ -1,5 +1,7 @@
 # Nikki Ricks' Life Portfolio
 
+![](images/site.png)
+
 WIP Deployed: nikki-life.surge.sh
 
 ## About
