@@ -260,7 +260,8 @@ function drawChart() {
   );
 
   var options = {
-    displayAnnotations: true
+    displayAnnotations: true,
+    colors: ['#e0440e', '#e6693e', '#ec8f6e', '#f3b49f', '#f6c7b6'],
   };
 
   chart.draw(data, options);
